@@ -7,6 +7,7 @@ const bodyMaster = [
   { id: "long-sleeve", name: "ドライロンT", price: 400 },
   { id: "long-sleeve", name: "コットンロンT", price: 560 },
   { id: "polo", name: "ドライポロ", price: 510 },
+  { id: "polo", name: "コットン風ポロ", price: 785 },
   { id: "polo", name: "圧着ホッケー", price: 625 },
   { id: "polo", name: "圧着野球（ストライプなし）", price: 800 },
   { id: "polo", name: "圧着野球（ストライプあり）", price: 1010 },
