@@ -4,17 +4,18 @@ const bodyMaster = [
   { id: "dry-shirt", name: "選択してください", price: 0 },
   { id: "dry-shirt", name: "ドライシャツ", price: 280 },
   { id: "cotton-shirt", name: "コットンTシャツ", price: 415 },
-  { id: "long-sleeve", name: "ドライロンT", price: 400 },
-  { id: "long-sleeve", name: "コットンロンT", price: 560 },
   { id: "polo", name: "ドライポロ", price: 510 },
   { id: "polo", name: "ポケット付きドライポロ", price: 510 },
   { id: "polo", name: "コットン風ポロ", price: 785 },
+  { id: "long-sleeve", name: "ドライロンT", price: 400 },
+  { id: "long-sleeve", name: "コットンロンT", price: 560 },
   { id: "polo", name: "圧着ホッケー", price: 625 },
   { id: "polo", name: "圧着野球（ストライプなし）", price: 800 },
   { id: "polo", name: "圧着野球（ストライプあり）", price: 1010 },
   { id: "polo", name: "スウェット", price: 940 },
   { id: "polo", name: "パーカー", price: 1270 },
   { id: "polo", name: "ジップパーカー", price: 1515 },
+  { id: "polo", name: "ドライVネック", price: 400 },
   { id: "polo", name: "6.2オンス プレミアム Tシャツ", price: 620 }
 ];
 
@@ -33,7 +34,7 @@ const bigDesignOptions = [
   { id: "big-name-number", label: "背ネーム背番号", price: 300 },
   { id: "big-4-normal", label: "④（24cm×30cm）", price: 300 },
   { id: "big-5-normal", label: "⑤（30cm×40cm）", price: 500 },
-  { id: "big-name-number-lame", label: "【ラメ】背ネーム背番号", price: 500 },
+  { id: "big-name-number-lame", label: "【ラメ】背ネーム背番号④⑤", price: 500 },
   { id: "big-4-lame", label: "【ラメ】④⑤", price: 600 }
 ];
 
